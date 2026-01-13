@@ -2,8 +2,6 @@
 
 A Core Java console application that demonstrates how real-world login systems work and how they defend against common attacks like brute force and SQL injection.
 
-This project combines **Java development** with **secure coding practices** and basic **attack simulation**, making it ideal for freshers who want to show real-world thinking.
-
 ---
 
 ## ▶ Getting Started
